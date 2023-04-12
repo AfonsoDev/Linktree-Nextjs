@@ -1,0 +1,29 @@
+{
+    "name":"Afonso Henrique",
+    "avatar":"https://pbs.twimg.com/profile_images/1392078149773561859/SuOCXJOF_400x400.jpg",
+    "links":[
+        {
+            "title":"My personal site",
+            "url": "afonsodev.com.br",
+            "image": "https://pbs.twimg.com/profile_images/1392078149773561859/SuOCXJOF_400x400.jpg"
+        },
+         {
+            "title":"My personal site",
+            "url": "afonsodev.com.br"
+        }
+    ],
+    "socials":[
+         {
+            "title":"Twitter",
+            "url": "afonsodev.com.br"
+        },
+        {
+            "title":"Instagram",
+            "url": "afonsodev.com.br"
+        },
+        {
+            "title":"Github",
+            "url": "afonsodev.com.br"
+        }
+    ]
+}
