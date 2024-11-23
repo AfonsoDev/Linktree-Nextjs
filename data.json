@@ -1,29 +1,29 @@
 {
-    "name":"Afonso Henrique",
+    "name":"Afonso Dev",
     "avatar":"https://pbs.twimg.com/profile_images/1392078149773561859/SuOCXJOF_400x400.jpg",
     "links":[
         {
-            "title":"My personal site",
-            "url": "afonsodev.com.br",
+            "title":"WebSite",
+            "url": "https://afonsodev.com.br/",
             "image": "https://pbs.twimg.com/profile_images/1392078149773561859/SuOCXJOF_400x400.jpg"
         },
          {
-            "title":"My personal site",
-            "url": "afonsodev.com.br"
+            "title":"NYXGG",
+            "url": "https://www.nyxgg.app/"
         }
     ],
     "socials":[
          {
-            "title":"Twitter",
-            "url": "afonsodev.com.br"
+            "title":"Twitter (X)",
+            "url": "https://x.com/afonsodev_"
         },
         {
             "title":"Instagram",
-            "url": "afonsodev.com.br"
+            "url": "https://www.instagram.com/afonsodev/"
         },
         {
             "title":"Github",
-            "url": "afonsodev.com.br"
+            "url": "https://github.com/AfonsoDev"
         }
     ]
 }
